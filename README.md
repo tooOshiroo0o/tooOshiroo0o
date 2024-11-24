@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tooOshiroo0o
-- 👀 I’m interested in some coding shi
-- 🌱 I’m currently learning c and related
+- 👋 Hi, I’m Jarou
+- 👀 I’m interested in some coding shi and robotics related
+- 🌱 I’m currently learning c and c++
 - 💞️ I’m looking to collaborate on any1
 
 <!---
